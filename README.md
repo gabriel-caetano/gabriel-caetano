@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gabriel-caetano&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&show_owner=true)]
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gabriel-caetano&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&show_owner=true)
 
 
 <!--
