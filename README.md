@@ -2,9 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gabriel-caetano&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&show_owner=true)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/gabriel-caetano/gabriel-caetano/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 <!--
 **gabriel-caetano/gabriel-caetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
